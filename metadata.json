@@ -1,0 +1,6 @@
+{
+  "name": "Nova Web Browser",
+  "description": "Full-featured web browser with persistent app login vault, multi-tab browsing, background audio playback, Picture-in-Picture, web games hub, developer tools, and extensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
